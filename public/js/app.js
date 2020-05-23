@@ -1,5 +1,3 @@
-console.log('Client side javascript is being loaded')
-
 
 const weatherform = document.querySelector('form')     //comes back javascript representation of that element, it is used to select the element
 const search = document.querySelector('input')
